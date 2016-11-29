@@ -1,0 +1,6 @@
+c:\users\srikanth kondapally\documents\visual studio 2015\Projects\XC.SiteCreatorUsingMultiSitesManager\XC.SiteCreator\bin\Debug\XC.SiteCreator.dll
+c:\users\srikanth kondapally\documents\visual studio 2015\Projects\XC.SiteCreatorUsingMultiSitesManager\XC.SiteCreator\bin\Debug\XC.SiteCreator.pdb
+c:\users\srikanth kondapally\documents\visual studio 2015\Projects\XC.SiteCreatorUsingMultiSitesManager\XC.SiteCreator\bin\Debug\Sitecore.Kernel.dll
+c:\users\srikanth kondapally\documents\visual studio 2015\Projects\XC.SiteCreatorUsingMultiSitesManager\XC.SiteCreator\obj\Debug\XC.SiteCreator.csprojResolveAssemblyReference.cache
+c:\users\srikanth kondapally\documents\visual studio 2015\Projects\XC.SiteCreatorUsingMultiSitesManager\XC.SiteCreator\obj\Debug\XC.SiteCreator.dll
+c:\users\srikanth kondapally\documents\visual studio 2015\Projects\XC.SiteCreatorUsingMultiSitesManager\XC.SiteCreator\obj\Debug\XC.SiteCreator.pdb
